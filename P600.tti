@@ -1,0 +1,21 @@
+DE,None
+PS,8010
+PN,60001
+SC,0001
+OL,2,EMEMF Schedule
+OL,5,CNow & Next          G606
+OL,6,CStage A Friday      G610
+OL,7,CStage B Friday      G611
+OL,8,CStage C Friday      G612
+OL,9,CStage A Saturday    G613
+OL,10,CStage B Saturday    G614
+OL,11,CStage C Saturday    G615
+OL,12,CStage A Sunday      G616
+OL,13,CStage B Sunday      G617
+OL,14,CStage C Sunday      G618
+OL,15,CThursday films      G619
+OL,16,CFriday films        G620
+OL,17,CSaturday films      G621
+OL,18,CSunday films        G622
+OL,19,CWorkshops           G780
+OL,22,D]CEMFFAX: The world at your fingertips\

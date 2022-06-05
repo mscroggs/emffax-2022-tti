@@ -1,0 +1,18 @@
+DE,None
+PS,8010
+PN,65601
+SC,0001
+OL,2,MAn Evil Maid's Dream: Windows Boot
+OL,4,MSecurity was Broken Anyway
+OL,6,CZammis Clark
+OL,7,CFri 17:40-18:20
+OL,8,CStage B
+OL,10,GA deep dive into the Windows boot
+OL,11,Gprocess, its security mechanisms, and
+OL,12,Gthe security issues that have been
+OL,13,Gfound within the last 10 years,
+OL,14,Gculminating in a single bug (found in
+OL,15,GAugust 2021, fixed in January 2022)
+OL,16,Gthat can bypass all such security
+OL,17,Gmechanisms.
+OL,22,D]CEMFFAX: The world at your fingertips\

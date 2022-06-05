@@ -1,0 +1,21 @@
+DE,None
+PS,8010
+PN,72901
+SC,0001
+OL,2,MModern Cryptography from Scratch, in
+OL,4,MScratch
+OL,6,CDavid Buchanan
+OL,7,CSun 13:30-14:00
+OL,8,CStage A
+OL,10,GScratch is a programming environment
+OL,11,Gaimed at children ages 8 to 16. It's
+OL,12,Gsimple and easy to learn, but lacks
+OL,13,Gmany features that experienced
+OL,14,Gprogrammers have come to expect, such
+OL,15,Gas version control, bitwise operators,
+OL,16,Gor integers! This talk provides a
+OL,17,Ghigh-level overview of authenticated
+OL,18,Gencryption with ChaCha20-Poly1305, and
+OL,19,GX25519 Elliptic-Curve Diffie-Hellman
+OL,20,Gkey exchange (both used in modern
+OL,22,D]CEMFFAX: The world at your fingertips\

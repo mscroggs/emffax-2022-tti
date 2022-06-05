@@ -1,0 +1,22 @@
+DE,None
+PS,8010
+PN,64001
+SC,0001
+OL,2,MBuilding weird games controllers.
+OL,4,Cben Everard
+OL,5,CFri 16:50-17:20
+OL,6,CStage A
+OL,8,GGames controllers are boring. They
+OL,9,Ghave the same few buttons in the same
+OL,10,Gplace. It doesn't have to be this way.
+OL,11,GIn this talk, I'll go through how I've
+OL,12,Gmade controllers that are different
+OL,13,Gand unique. These controllers are
+OL,14,Gquick and easy to make with a
+OL,15,Gmicrocontroller and Circuit Python,
+OL,16,Gand theycan use almost any input
+OL,17,Gdevice, such as slider potentiometers,
+OL,18,Grotary encoders, IMUs and touch pads.
+OL,19,GWe’ll look at what’s worked, what
+OL,20,Ghasn’t and how to make your own games
+OL,22,D]CEMFFAX: The world at your fingertips\

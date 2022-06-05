@@ -1,0 +1,22 @@
+DE,None
+PS,8010
+PN,76701
+SC,0001
+OL,2,MDemystifying the USB Type-C connector
+OL,4,CTyler Ward
+OL,5,CSun 16:30-17:00
+OL,6,CStage C
+OL,8,GThe USB type-C connector has become
+OL,9,Gthe universal connector for modern
+OL,10,Gdevices. It is able to transmit USB,
+OL,11,Gvideo, power, and more, Often doing
+OL,12,Gseveral of these at the same time.
+OL,13,GAll, while maintaining backwards
+OL,14,Gcompatibility with older hardware
+OL,15,Gusing relatively simple adapters. This
+OL,16,Gtalk will explore the methods used to
+OL,17,Gmake this possible and the
+OL,18,Gconsequences of not following the spec
+OL,19,G(e.g. Invalid charging cables, or the
+OL,20,Gissues on the raspberry pi type 4).
+OL,22,D]CEMFFAX: The world at your fingertips\

@@ -1,0 +1,21 @@
+DE,None
+PS,8010
+PN,73601
+SC,0001
+OL,2,MLondon Underground open data: much
+OL,4,Mmore than you ever wanted to know
+OL,6,Ceta
+OL,7,CSun 17:50-18:20
+OL,8,CStage A
+OL,10,GOver the past year or so, I've become
+OL,11,Gway too interested in tracking London
+OL,12,GUnderground trains with greater
+OL,13,Gprecision than anyone else so far.
+OL,14,GTransport for London provides an API
+OL,15,G("TrackerNet") to get departure boards
+OL,16,Gfor all the stations -- but (ab)using
+OL,17,Gthat information to track the journeys
+OL,18,Gof each individual train has proven
+OL,19,Gmuch harder than expected. I'll
+OL,20,Gexplain how I built a system to
+OL,22,D]CEMFFAX: The world at your fingertips\

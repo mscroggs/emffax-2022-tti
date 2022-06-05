@@ -1,0 +1,16 @@
+DE,None
+PS,8010
+PN,42101
+SC,0001
+OL,2,MTrains:CReading
+OL,5,C22:53GLondon Paddington        F13
+OL,6,GCalling at: London Paddington
+OL,8,C23:37GBristol Temple Meads     F-
+OL,9,C23:37GLondon Paddington        F8
+OL,10,C23:40GEaling Broadway          F10
+OL,11,C00:19GBristol Temple Meads     F7
+OL,12,C00:24GDidcot Parkway           F8B
+OL,13,C00:24GEaling Broadway          F7
+OL,14,C00:48GPenzance                 F8
+OL,15,C00:54GLondon Paddington        F10A
+OL,22,D]CEMFFAX: The world at your fingertips\

@@ -1,0 +1,21 @@
+DE,None
+PS,8010
+PN,76901
+SC,0001
+OL,2,MMachine learning with a pile of
+OL,4,Mmatchboxes
+OL,6,CMatthew Scroggs
+OL,7,CSun 18:00-18:30
+OL,8,CStage C
+OL,10,GIn the 1960s, Donald Michie built
+OL,11,GMENACE: the matchbox educable noughts
+OL,12,Gand crosses engine. MENACE was built
+OL,13,Gfrom 304 matchboxes and is one of the
+OL,14,Gearliest examples of a machine
+OL,15,Glearning algorithm: initially, MENACE
+OL,16,Gis a very bad noughts and crosses but
+OL,17,Gover a number of games it learns
+OL,18,Gbetter ways to play. In this talk, I
+OL,19,Gwill demonstrate how MENACE and
+OL,20,G(simple) machine learning work using
+OL,22,D]CEMFFAX: The world at your fingertips\

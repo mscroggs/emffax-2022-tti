@@ -1,0 +1,16 @@
+DE,None
+PS,8010
+PN,11401
+SC,0001
+OL,2,MAboutCEMFFAX
+OL,4,GEMFFAX is a text-based information
+OL,5,Gservice inspired by CEEFAX (see page
+OL,6,G115). EMFFAX was created by Matthew
+OL,7,GScroggs (@mscroggs).
+OL,9,GEMFFAX uses vbit2 to encode teletext
+OL,10,Gfiles into this television's video
+OL,11,Ginput.
+OL,13,GThe Python code that generates these
+OL,14,Gpages can be found on GitHub at
+OL,15,Ggithub.com/mscroggs/emffax-2022
+OL,22,D]CEMFFAX: The world at your fingertips\

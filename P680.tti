@@ -1,0 +1,21 @@
+DE,None
+PS,8010
+PN,68001
+SC,0001
+OL,2,MThe curious design of the Apollo
+OL,4,MGuidance Computer.
+OL,6,CSteve Baines
+OL,7,CSat 13:20-13:50
+OL,8,CStage A
+OL,10,GThe Apollo Guidance Computer (AGC) was
+OL,11,Ga critical element in the success of
+OL,12,Gthe Apollo Moon landing programme, and
+OL,13,Gwas one of the first digital computers
+OL,14,Gto use the then new technology of
+OL,15,Gintegrated circuits. By modern
+OL,16,Gstandards, its design has many unusual
+OL,17,Gaspects, such as: - The logic circuits
+OL,18,Gwere made entirely from 3 input NOR
+OL,19,Ggates. - Design was split into 24
+OL,20,Glogic modules, but due to limits on
+OL,22,D]CEMFFAX: The world at your fingertips\

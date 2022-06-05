@@ -1,0 +1,21 @@
+DE,None
+PS,8010
+PN,74101
+SC,0001
+OL,2,MFluroclock - the clock made from
+OL,4,Mfluorescent tubes
+OL,6,CTom O’Connor and Hugh Wells
+OL,7,CSun 10:00-10:30
+OL,8,CStage B
+OL,10,GFluroclock is a 4 digit clock, made
+OL,11,Gusing fluorescent tubes. At just under
+OL,12,Ga meter, they're quite a bit bigger
+OL,13,Gthan your average 7-segment display!
+OL,14,GWe discuss how we designed and built
+OL,15,Gthis clock and how you can do the
+OL,16,Gsame. We'll also demonstrate some of
+OL,17,Gthe features, and explain the logic
+OL,18,Glayout and interface between TTL logic
+OL,19,Gand microcontrollers. We'll discuss
+OL,20,Gthe design challenges and choices we
+OL,22,D]CEMFFAX: The world at your fingertips\
